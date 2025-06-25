@@ -1,1 +1,1 @@
-echo "this is a sub"
+echo "this is a mainsub"
