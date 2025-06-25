@@ -1,1 +1,1 @@
-echo "mul"
+echo "division"
